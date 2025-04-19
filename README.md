@@ -16,7 +16,7 @@
 Just a curious guy who loves making sense of data 📊 and turning chaos into clarity through beautiful dashboards and smart analytics.
 
 - 🎓 B.Tech in Electronics & Communication Engineering  
-- 🛠️ Currently a **Senior Analyst - BI** @ Tiger Analytics  
+- 🛠️ Currently a **Senior Data Analyst - BI** @ MNC  
 - 🧪 4 years of diving deep into BI tools, data lakes, and process automations  
 - 🎯 Passionate about **Power BI**, **Microsoft Fabric**, **PySpark**, and turning business needs into sleek dashboards
 
