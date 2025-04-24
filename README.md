@@ -28,8 +28,8 @@ Just a curious guy who loves making sense of data 📊 and turning chaos into cl
 ### ⚒️ Experienced in
 <p align="left"> 
   <a href="https://github.com/Siddhartha-Basu" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/></a>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="pointer-events: none; user-select: none; cursor: default;"/> 
-  <img src="https://img.icons8.com/?size=100&id=0cRqPqlItA0E&format=png&color=000000" alt="Spark" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="pointer-events: none; user-select: none; cursor: default;" draggable="false" /> 
+  <a href="#"><img src="https://img.icons8.com/?size=100&id=0cRqPqlItA0E&format=png&color=000000" alt="Spark" width="40" height="40"/> </a>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   <img src="https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000" alt="PowerBI" width="40" height="40"/> 
   <img src="https://pnghq.com/wp-content/uploads/tableau-full-logo-transparent-png-85396-1024x576.png" alt="Tableau" width="55" height="30"/> 
